@@ -1,0 +1,1 @@
+winedatae=pd.read_excel('D:/Winter 2023/BSc DS 4/Programs/wine.xls')
